@@ -9,6 +9,13 @@ Un componente crucial de la aplicación es la división de la información en do
 
 La aplicación móvil se complementa con un mapa interactivo que permite a los usuarios explorar visualmente los espacios públicos en el municipio. En conjunto, esta aplicación tiene como objetivo mejorar la experiencia de los residentes y visitantes al proporcionar una herramienta útil y completa para conocer y disfrutar de los espacios públicos en el municipio del Centro, Villahermosa Tab.
 
+## Ficha de Presentación
+<img src="https://github.com/AngelSaul27/Aplicacion_Movil_EPICentro/assets/64120319/5b176b68-2d69-4dc3-8cdf-dcf6d1cbb4b7" alt="Bienvenida" width="95%">
+
+## Descargar
+
+https://play.google.com/store/apps/details?id=mx.gob.centro.epicentro.application&hl=en
+
 ## Galeria del Producto
 
 Screens de Bienvenida a la aplicación
